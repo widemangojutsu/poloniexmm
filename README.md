@@ -9,7 +9,7 @@ Referral code: E6DSDXA6
 
 
 
-#### Instructions
+## Instructions
 Fill in setup with info
 
 keep '' put your value between 'valuesgoeshere'
@@ -34,3 +34,17 @@ Run 2nd to place order at best bid and best ask
 run 3rd to get how many open orders you have
 
 run 4th to cancel all orders
+
+
+### to run
+shift + enter first cell
+shift + enter 2nd cell places orders
+shift + enter 3rd cell shows orders
+shift + enter 4th cell cancels orders
+
+so its like shift enter, shift enter, shift enter, wait for orders to be taken, up arrow key show orders taken, down arrow key shift enter to cancel remaining orders, up arrow key twice place orders, down arrow
+HESOYAM
+
+
+
+
